@@ -27,7 +27,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - Yaswanth kumar , reg no:212224230310</title>
+    <title>SLOT TIME TABLE - Surya R , reg no:212224040339</title>
     <style>
         table {
             border-collapse: collapse;
@@ -63,7 +63,7 @@ Execute the program using runserver command.
 <body>
     <img src="logo.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - SURYA R (212224040339) </strong></p>
+        <p><strong>SLOT TIME TABLE - John Wilfred Thomas J W (212224040141) </strong></p>
     </div>
     <table>
         <tr>
@@ -77,16 +77,15 @@ Execute the program using runserver command.
         <tr>
             <th colspan="1" bgcolor="Yellow">8-10</th>
             <th colspan="3" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
+            <th colspan="2" bgcolor="Cyan">UI UX</th>
         </tr>
         <tr>
             <th colspan="1" bgcolor="Yellow">10-12</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
-            <th colspan="1" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
-            <th colspan="1" bgcolor="Cyan">PHY</th>
+            <th colspan="1" bgcolor="Cyan">WEB</th>
+            <th colspan="1" bgcolor="Cyan">PY</th>
+            <th colspan="1" bgcolor="Cyan">WEB</th>
+            <th colspan="1" bgcolor="Cyan">REASONING</th>
+            <th colspan="1" bgcolor="Cyan">BEEE</th>
         </tr>
         <tr>
             <th colspan="1" bgcolor="Yellow">12-1</th>
@@ -94,18 +93,12 @@ Execute the program using runserver command.
         </tr>
         <tr>
             <th colspan="1" bgcolor="Yellow">1-3</th>
-            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">MAT</th>
-            <th colspan="1" bgcolor="Cyan">MAT</th>
-            <th colspan="1" bgcolor="Cyan">SS</th>
+            <th colspan="1" bgcolor="Cyan">CN</th>
+            <th colspan="1" bgcolor="Cyan">BLOCKCHAIN</th>
+            <th colspan="1" bgcolor="Cyan">MENTOR MEET</th>
+            <th colspan="1" bgcolor="Cyan">BEEE</th>
+            <th colspan="1" bgcolor="Cyan">PY</th>
         </tr>
-        </tr>
-        <tr>
-            <th colspan="1" bgcolor="Yellow">3-5</th>
-            <th colspan="2" bgcolor="Cyan">FREE SLOT</th>
-            <th colspan="1" bgcolor="Cyan">GER</th>
-            <th colspan="1" bgcolor="Cyan">CHE</th>
-            <th colspan="1" bgcolor="Cyan">FWAD</th>
         </tr>
     </table>
 
@@ -118,32 +111,42 @@ Execute the program using runserver command.
         <tr>
             <th colspan="1" bgcolor="White">1.</th>
             <th colspan="1" bgcolor="White">19AI41</th>
-            <th colspan="2" bgcolor="White">Fundamentals of Web Application Development(FWAD)</th>
+            <th colspan="2" bgcolor="White">Fundamentals of Web Application Development(WEB)</th>
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">2.</th>
-            <th colspan="1" bgcolor="White">19EN612</th>
-            <th colspan="2" bgcolor="White">German Basic (GER)</th>        
+            <th colspan="1" bgcolor="White">19AL301</th>
+            <th colspan="2" bgcolor="White">Python Programming(PY)</th>        
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">3.</th>
-            <th colspan="1" bgcolor="White">19PH206</th>
-            <th colspan="2" bgcolor="White">Physics for Information Technology (PHY)</th> 
+            <th colspan="1" bgcolor="White">19AL547</th>
+            <th colspan="2" bgcolor="White">BLOCKCHAIN FOR BUSINESS(BLOCKCHAIN)</th> 
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">4.</th>
-            <th colspan="1" bgcolor="White">19CY205</th>
-            <th colspan="2" bgcolor="White">Principles of Chemistry in Engineering (CHE)</th> 
+            <th colspan="1" bgcolor="White">19EE305</th>
+            <th colspan="2" bgcolor="White">BASIC ELECTRICAL,ELECTRONCS AND MEASUREMENT(BEEE)</th> 
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">5.</th>
-            <th colspan="1" bgcolor="White">19MA201</th>
-            <th colspan="2" bgcolor="White">Calculus and Matrix Algebra (MAT)</th> 
+            <th colspan="1" bgcolor="White">19CS549</th>
+            <th colspan="2" bgcolor="White">UI AND UX DESIGNS(UI UX)</th> 
         </tr>
         <tr>
             <th colspan="1" bgcolor="White">6.</th>
-            <th colspan="1" bgcolor="White">19EY701</th>
-            <th colspan="2" bgcolor="White">Soft Skills (SS)</th> 
+            <th colspan="1" bgcolor="White">19CS406</th>
+            <th colspan="2" bgcolor="White">COMPUTER NETWORKS(CN)</th> 
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="White">7.</th>
+            <th colspan="1" bgcolor="White">19EY709</th>
+            <th colspan="2" bgcolor="White">REASONING ABILITY(REASONING)</th> 
+        </tr>
+        <tr>
+            <th colspan="1" bgcolor="White">8.</th>
+            <th colspan="1" bgcolor="White">ECA-M</th>
+            <th colspan="2" bgcolor="White">MENTOR MEET(MENTOR)</th> 
         </tr>
     </table>
 </body>
@@ -151,6 +154,9 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/ecc7ec6e-0e24-4683-bda4-2ee870cf10e5)
+
+
 
 
 ## RESULT
