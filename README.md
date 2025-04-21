@@ -27,12 +27,7 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <style>
-        table {
-            border-collapse: collapse;
-            width: 80%;
-            margin: 5px auto;
-        }
+    
 
         table + table {
             margin-top: 20px;
