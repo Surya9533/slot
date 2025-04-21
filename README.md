@@ -63,7 +63,7 @@ Execute the program using runserver command.
 <body>
     <img src="logo.png">
     <div class="center-text">
-        <p><strong>SLOT TIME TABLE - John Wilfred Thomas J W (212224040141) </strong></p>
+        <p><strong>SLOT TIME TABLE - Surya R (212224040339) </strong></p>
     </div>
     <table>
         <tr>
