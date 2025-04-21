@@ -27,7 +27,6 @@ Execute the program using runserver command.
 <!DOCTYPE html>
 <html>
 <head>
-    <title>SLOT TIME TABLE - Surya R , reg no:212224040339</title>
     <style>
         table {
             border-collapse: collapse;
